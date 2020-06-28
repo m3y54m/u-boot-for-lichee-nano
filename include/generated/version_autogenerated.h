@@ -1,4 +1,4 @@
-#define PLAIN_VERSION "2018.01-05677-gd1f02066e3-dirty"
+#define PLAIN_VERSION "2018.01-05682-gd83b2fefcf-dirty"
 #define U_BOOT_VERSION "U-Boot " PLAIN_VERSION
-#define CC_VERSION_STRING "arm-linux-gnueabi-gcc (Linaro GCC 7.3-2018.05) 7.3.1 20180425 [linaro-7.3-2018.05 revision d29120a424ecfbc167ef90065c0eeb7f91977701]"
-#define LD_VERSION_STRING "GNU ld (Linaro_Binutils-2018.05) 2.28.2.20170706"
+#define CC_VERSION_STRING "arm-linux-gnueabi-gcc (Linaro GCC 7.2-2017.11) 7.2.1 20171011"
+#define LD_VERSION_STRING "GNU ld (Linaro_Binutils-2017.11) 2.28.2.20170706"
